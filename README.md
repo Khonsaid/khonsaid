@@ -1,8 +1,9 @@
-<h3 align="left">Hi there! 👋  <br>I'm Khonsaid, a Mobile Developer specializing in Flutter and Android development.  <br>I enjoy building smooth and efficient mobile experiences, solving problems, and learning new technologies. 🚀</h3>
+<h3 align="left">Hi there! 👋  <br>I'm Khonsaid, a Mobile Developer specializing in Flutter and Android development.  <br>I enjoy building smooth and efficient mobile experiences, solving problems, and
+learning new technologies. 🚀</h3>
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnhqY2hvY2tqd2M5OWdpdmhlMnFoejhjbTI5aDZzemdiczhnbXFsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gf5QiP1TWCO8qYKmt7/giphy.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFvazFyMTFnN3MxOGI1ZHpidTM5bnYxMGlzY3g1ZjcyeGtkY2MyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif"  />
 
 ###
 
@@ -32,8 +33,12 @@
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+   <a href="https://www.linkedin.com/in/khonsaid/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://t.me/xonsaid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+  </a> 
 </div>
 
 ###
