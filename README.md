@@ -3,7 +3,7 @@ learning new technologies. 🚀</h3>
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFvazFyMTFnN3MxOGI1ZHpidTM5bnYxMGlzY3g1ZjcyeGtkY2MyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndxNDR0b2RuYnpqOWlhaXF3NGdieWNiczUwb2N3YXQxdXJ3dTJ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kCVIL0CLNWv2E/giphy.gif"  />
 
 ###
 
