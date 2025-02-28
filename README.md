@@ -1,6 +1,8 @@
 <h3 align="left">Hi there! 👋  <br>I'm Khonsaid, a Mobile Developer specializing in Flutter and Android development.  <br>I enjoy building smooth and efficient mobile experiences, solving problems, and
 learning new technologies. 🚀</h3>
 
+# 💻 Tech Stack:
+
 ###
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndxNDR0b2RuYnpqOWlhaXF3NGdieWNiczUwb2N3YXQxdXJ3dTJ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kCVIL0CLNWv2E/giphy.gif"  />
@@ -28,6 +30,8 @@ learning new technologies. 🚀</h3>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
 </div>
+
+# Contact:
 
 ###
 
